@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CiIR3iwP87payPHhw3nAJaEX+f0pMj6IGfHpCaxqbKNENGvUVM6CMIj+39bGTt55bSRt8Np5GSaWWrtxrPmZxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Motahar 1\\source\\repos\\F.Data Science\\F.DS.NoSqlServices\\F.DS.NoSqlServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

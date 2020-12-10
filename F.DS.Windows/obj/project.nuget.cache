@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SM0jiwGqpx7o+t19dJH71yWnNuJg7ImvVAbC+fI/bNz2pmxrzQdnYbfm7yVQ5vo2zimFjR7kPiM0XgHGGI43Hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Motahar 1\\source\\repos\\F.Data Science\\F.DS.Windows\\F.DS.Windows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
