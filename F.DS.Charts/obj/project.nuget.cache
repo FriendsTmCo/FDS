@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YG52f00Wp92rwqRALbrt2djK5wkmXtBqDrwEFmikPjWNJIz4iGpDQxiVC5SE804ju1uiDaPDDSFV2fRO+NTf2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Motahar 1\\source\\repos\\F.Data Science\\F.DS.Charts\\F.DS.Charts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
