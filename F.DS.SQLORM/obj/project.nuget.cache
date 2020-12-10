@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "00K+AnG89dbbkdPvolvyJJbefKX3pLDBebjvx4LDwlhPCbMxuB3qioaaMLqDLxcU4hdZWG3VwAR7vWdQY5s7ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Motahar 1\\source\\repos\\F.Data Science\\F.DS.SQLORM\\F.DS.SQLORM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
