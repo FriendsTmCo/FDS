@@ -656,26 +656,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Motahar 1\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\Amir Hossin\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Motahar 1\\source\\repos\\F.Data Science\\F.DS.WEB\\F.DS.WEB.csproj",
+      "projectUniqueName": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.WEB\\F.DS.WEB.csproj",
       "projectName": "F.DS.WEB",
-      "projectPath": "C:\\Users\\Motahar 1\\source\\repos\\F.Data Science\\F.DS.WEB\\F.DS.WEB.csproj",
-      "packagesPath": "C:\\Users\\Motahar 1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Motahar 1\\source\\repos\\F.Data Science\\F.DS.WEB\\obj\\",
+      "projectPath": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.WEB\\F.DS.WEB.csproj",
+      "packagesPath": "C:\\Users\\Amir Hossin\\.nuget\\packages\\",
+      "outputPath": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Motahar 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Amir Hossin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -725,7 +722,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.20601.7\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
       }
     }
   }

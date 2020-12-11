@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JmQHnduApGK4Dek5BKnXIQcS1aDaBcGgq1Vdwou2AH1IYtDrYpR34XL4CQeufal+Om+OuCLtrZdsUhUVsP59rg==",
+  "dgSpecHash": "/MVHe2OG9Og/Z378eiJ9YoyCY3QzmRALwFqsi4XwkERS699hTxiiR6Hpp8XeZM1w1J2HdLiLyu//ZtITE/pTqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Motahar 1\\source\\repos\\F.Data Science\\F.DS.Console\\F.DS.Console.csproj",
+  "projectFilePath": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.Console\\F.DS.Console.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\Amir Hossin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8+GDuaXujWvh6mFjT5MM8Xng6dcO+aGFZFpr82JLkx68ReKC4FVaaynZgeyCP0WbQwYwzmG866qp0OEQ/vQbLQ==",
+  "success": true,
+  "projectFilePath": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.FS\\F.DS.FS.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amir Hossin\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\Amir Hossin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
