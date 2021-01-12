@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z79TjBqXNypTNRzZAq0Y2APy/j9QOBb2Y5kWiTgUv5OIqTe3PjTEBpORhNt5YPw1+aLYew+lHPh61wTimcmARA==",
+  "dgSpecHash": "rygD8OJOp0cK3BEKmdtiLYTXJ06nYDQz0z7me5KzF0OGokc/UPNmOMaXwEDr7Jtqfocn3mp34vCrs+gy6EEylQ==",
   "success": true,
-  "projectFilePath": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.NoSQLORM\\F.DS.NoSQLORM.csproj",
+  "projectFilePath": "C:\\Users\\Motahar 1\\Desktop\\FDS\\F.DS.NoSQLORM\\F.DS.NoSQLORM.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Amir Hossin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

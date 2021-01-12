@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6nob5j7X8eHxgaFeXVJ7oj2/3o3L4nYOQkWwQC666S4Jzx9Nnkg0OONaEdGL+PkJBXIfBI4HNQykv7ccF4CDeg==",
+  "dgSpecHash": "NLHIwI9311AdZExAOHBmB55y6Ud4WcYQHwHil42yHXR/2qC75XTHb/1CHekmf3XZH/sLltBZ6hEgvbvQSc+kQQ==",
   "success": true,
-  "projectFilePath": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.SQLORM\\F.DS.SQLORM.csproj",
+  "projectFilePath": "C:\\Users\\Motahar 1\\Desktop\\FDS\\F.DS.SQLORM\\F.DS.SQLORM.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Amir Hossin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

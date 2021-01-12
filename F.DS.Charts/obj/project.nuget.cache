@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BcRCsEt7g+r0GXuuoNC9RtGFmo23u9XAn8sWB0NOm2LPI2wwHAi8s9y96zJ0HrpnVzVEXNniC7S5KaoFvzIIAw==",
+  "dgSpecHash": "+YY70+A/7OYdQotdStuvjlusO7DQ5WPZlG40qIYYlPjzrb4jfzWoj0MbSOyEJvVpZ3OKDNtjdJhBuLiYOECarA==",
   "success": true,
-  "projectFilePath": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.Charts\\F.DS.Charts.csproj",
+  "projectFilePath": "C:\\Users\\Motahar 1\\Desktop\\FDS\\F.DS.Charts\\F.DS.Charts.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Amir Hossin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

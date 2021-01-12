@@ -3790,7 +3790,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "GmkKfoyerqmsHMn7OZj0AKpcBabD+GaafqphvX2Mw406IwiJRy1pKcKqdCfKJfYmkRyJ6+e+RaUylgdJoDa1jQ==",
+      "sha512": "ok+RPAtESz/9MUXeIEz6Lv5XAGQsaNmEYXMsgVALj4D7kqC8gveKWXWXbufLySR2fWrwZf8smyN5RmHu0e4BHA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
@@ -8151,26 +8151,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Amir Hossin\\.nuget\\packages\\": {},
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.UWP\\F.DS.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Motahar 1\\Desktop\\FDS\\F.DS.UWP\\F.DS.UWP.csproj",
       "projectName": "F.DS.UWP",
-      "projectPath": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.UWP\\F.DS.UWP.csproj",
-      "packagesPath": "C:\\Users\\Amir Hossin\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.UWP\\obj\\",
+      "projectPath": "C:\\Users\\Motahar 1\\Desktop\\FDS\\F.DS.UWP\\F.DS.UWP.csproj",
+      "packagesPath": "C:\\Users\\Motahar 1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Motahar 1\\Desktop\\FDS\\F.DS.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Amir Hossin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Motahar 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

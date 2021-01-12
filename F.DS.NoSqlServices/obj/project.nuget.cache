@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1Z6gQWWjlPa7ZbDl3jBIzY1rdhCSnMxVVY/Kc+bwpT/wzQg7RtGPIFEEMqM957h2PZUXaHlYSVWIE5f3UEeARQ==",
+  "dgSpecHash": "YOgJg+Ghobt66jsDF5HMihN5jlGopBH1mJU0LBkGyXpxQZ/IqYVrWoJroJOjRMrnl1rFlYtuZAI9xq825aKSEw==",
   "success": true,
-  "projectFilePath": "D:\\project\\FTEAM\\F.DS\\F.Data Science\\F.DS.NoSqlServices\\F.DS.NoSqlServices.csproj",
+  "projectFilePath": "C:\\Users\\Motahar 1\\Desktop\\FDS\\F.DS.NoSqlServices\\F.DS.NoSqlServices.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Amir Hossin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }
